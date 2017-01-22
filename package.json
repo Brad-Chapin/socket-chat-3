@@ -1,0 +1,25 @@
+{
+  "name": "socket-chat-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brad-Chapin/socket-chat-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brad-Chapin/socket-chat-3/issues"
+  },
+  "homepage": "https://github.com/Brad-Chapin/socket-chat-3#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jquery": "^3.1.1",
+    "socket.io": "^1.7.2"
+  }
+}
